@@ -1,2 +1,5 @@
 /* Add CSS styling here */
-
+body{
+    color: purple;
+    font-family: impact;
+}
