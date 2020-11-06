@@ -6,11 +6,38 @@ body {
 h1 {
     color: black;
     text-align: left;
+    font-size: 40px;  
 }
-.containter header nav a {
+.container header nav a {
     display: flex;
+    flex-flow: ;
     justify-content: left;
-    margin: 10px;
+    margin: 1px;
     background-color: white;
     color: black;
     }
+.projects {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 10px;
+  font-family: impact;
+  font-size: 25px;
+  text-align: right;
+ }
+p {
+  border: 20px solid black;
+  display: flex;
+  text-align: right;
+}
+footer {
+  text-align: center;
+}
+.contact {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 10px;
+  font-family: impact;
+  font-size: 25px;
+  }
