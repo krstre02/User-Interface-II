@@ -7,7 +7,7 @@ h1 {
     color: black;
     text-align: left;
 }
-.header nav {
+.containter header nav a {
     display: flex;
     justify-content: left;
     margin: 10px;
