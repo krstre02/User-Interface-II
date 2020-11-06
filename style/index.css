@@ -2,4 +2,14 @@
 body{
     color: purple;
     font-family: impact;
+    background-color: aqua;
+}
+h1 {
+    color: pink;
+    text-align: left;
+}
+.header nav {
+    display: flex;
+    justify-content: left;
+    margin: 10px;
 }
