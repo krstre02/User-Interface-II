@@ -10,7 +10,7 @@ h1 {
 }
 .container header nav a {
     display: flex;
-    flex-flow: ;
+    flex-flow: row;
     justify-content: left;
     margin: 1px;
     background-color: white;
