@@ -1,14 +1,16 @@
-body{
-    color: purple;
+body {
+    color: black;
     font-family: impact;
     background-color: aqua;
 }
 h1 {
-    color: pink;
+    color: black;
     text-align: left;
 }
 .header nav {
     display: flex;
     justify-content: left;
     margin: 10px;
-}
+    background-color: white;
+    color: black;
+    }
